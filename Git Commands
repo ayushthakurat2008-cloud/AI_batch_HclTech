@@ -70,6 +70,12 @@ Know about Remote:
 git remote –v
 
 
+Know about branches:
+git branch
+
+
+
+
 
 
 
