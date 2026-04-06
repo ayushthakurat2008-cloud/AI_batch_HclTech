@@ -88,6 +88,18 @@ You need to authenticate the github account
 and then check the repository for the updated content
 
 
+Two ways to create a new branch:
+1) Create and Switch to a New Branch
+    git checkout -b feature-branch
+2) Create Multiple Branches, but remain at the main branch
+    git branch feature-login
+    git branch feature-payment
+Later go to the branch by 
+    git checkout feature-branch
+
+
+Step : Create the branch dev :
+git checkout -b feature-dev
 
 
 
