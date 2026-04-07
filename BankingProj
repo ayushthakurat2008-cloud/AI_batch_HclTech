@@ -38,5 +38,10 @@ rename cuurent branch :
 git branch -m main
 
 
+git push origin main
+
+
+
+
 
 
