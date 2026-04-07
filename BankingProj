@@ -46,6 +46,9 @@ git push --force origin main
 Edit Bank.html:
 
 <html>
+    <head>
+        <script src="Bank.js"></script>
+    </head>
     <body>
         <h3>Simple Interest Calculation:</h3>
         Enter Principle Amount:
